@@ -1,0 +1,12 @@
+{
+  "template": "git@github.com:lindycoder/cruft-branch-issue-template.git",
+  "commit": "a0c2d317de0b8c7d3d50a9fa9b10903fa8629a90",
+  "checkout": "not-main",
+  "context": {
+    "cookiecutter": {
+      "project_name": "cruft-branch-issue",
+      "_template": "git@github.com:lindycoder/cruft-branch-issue-template.git"
+    }
+  },
+  "directory": null
+}
